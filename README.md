@@ -18,18 +18,22 @@ git clone
 
 <!-- Write your answer under here -->
 git init
+
 4. What does the -m in a Git commit command mean or do?
 
 <!-- Write your answer here -->
 message- gives the respository name 
+
 5. What is the Git command for making a commit?
 
 <!-- Write your answer here -->
 git commit -m"git quiz"
+
 6. What is the Git command to put your files in the staging area?
 
 <!-- Write your answer here -->
 git add .
+
 7. What does origin stand for when pushing you code?
 
 <!-- Write your answer here -->
